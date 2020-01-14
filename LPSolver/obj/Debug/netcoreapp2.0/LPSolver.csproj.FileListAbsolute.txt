@@ -1,0 +1,11 @@
+D:\Projects\LAB\LPSolver\LPSolver\bin\Debug\netcoreapp2.0\LPSolver.deps.json
+D:\Projects\LAB\LPSolver\LPSolver\bin\Debug\netcoreapp2.0\LPSolver.runtimeconfig.json
+D:\Projects\LAB\LPSolver\LPSolver\bin\Debug\netcoreapp2.0\LPSolver.runtimeconfig.dev.json
+D:\Projects\LAB\LPSolver\LPSolver\bin\Debug\netcoreapp2.0\LPSolver.dll
+D:\Projects\LAB\LPSolver\LPSolver\obj\Debug\netcoreapp2.0\LPSolver.csprojAssemblyReference.cache
+D:\Projects\LAB\LPSolver\LPSolver\obj\Debug\netcoreapp2.0\LPSolver.csproj.CoreCompileInputs.cache
+D:\Projects\LAB\LPSolver\LPSolver\obj\Debug\netcoreapp2.0\LPSolver.AssemblyInfoInputs.cache
+D:\Projects\LAB\LPSolver\LPSolver\obj\Debug\netcoreapp2.0\LPSolver.AssemblyInfo.cs
+D:\Projects\LAB\LPSolver\LPSolver\bin\Debug\netcoreapp2.0\LPSolver.pdb
+D:\Projects\LAB\LPSolver\LPSolver\obj\Debug\netcoreapp2.0\LPSolver.dll
+D:\Projects\LAB\LPSolver\LPSolver\obj\Debug\netcoreapp2.0\LPSolver.pdb
